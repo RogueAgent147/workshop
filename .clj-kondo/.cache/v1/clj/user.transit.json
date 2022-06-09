@@ -1,0 +1,1 @@
+["^ ","~$foo",["^ ","~:row",77,"~:col",1,"~:name","^0","~:ns","~$user","~:top-ns",null],"~$add-2",["^ ","^1",79,"^2",1,"~:fixed-arities",["~#set",[1]],"^3","^7","^4","^5","^6",null,"~:arities",["^ ","~i1",["^ ","~:ret","~:number"]]],"~:filename","/home/nicholas/workshop/src/workshop/chapter2/simple-data-types.clj"]
